@@ -1,0 +1,13 @@
+# Raw Jira exports (contain personal data such as names and account IDs)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
